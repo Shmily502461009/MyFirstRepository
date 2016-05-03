@@ -10,4 +10,7 @@
 
 @interface ZYViewController : UIViewController
 
+@property (nonatomic,retain)UILabel *label;
+
+//@property (nonatomic,retain)
 @end

@@ -14,7 +14,7 @@
 		0463E4651CD8803700C6ECC7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0463E4641CD8803700C6ECC7 /* main.m */; };
 		0463E4691CD8803700C6ECC7 /* ZYAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0463E4681CD8803700C6ECC7 /* ZYAppDelegate.m */; };
 		0463E46C1CD8803700C6ECC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0463E46A1CD8803700C6ECC7 /* Main.storyboard */; };
-		0463E46F1CD8803700C6ECC7 /* ZYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0463E46E1CD8803700C6ECC7 /* ZYViewController.m */; };
+		0463E46F1CD8803700C6ECC7 /* ZYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0463E46E1CD8803700C6ECC7 /* ZYViewController.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		0463E4711CD8803700C6ECC7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0463E4701CD8803700C6ECC7 /* Images.xcassets */; };
 		0463E4781CD8803800C6ECC7 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0463E4771CD8803800C6ECC7 /* XCTest.framework */; };
 		0463E4791CD8803800C6ECC7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0463E4581CD8803700C6ECC7 /* Foundation.framework */; };
@@ -457,6 +457,7 @@
 				0463E4891CD8803800C6ECC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0463E48A1CD8803800C6ECC7 /* Build configuration list for PBXNativeTarget "MyFirstRepositionTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				0463E48C1CD8803800C6ECC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
