@@ -12,6 +12,7 @@
 
 @property (nonatomic,retain)UILabel *label;
 @property (nonatomic,retain)UIButton *btn;
+@property (nonatomic,retain)UIImage *img;
 
 //@property (nonatomic,retain)
 @end
