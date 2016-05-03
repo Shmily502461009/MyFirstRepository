@@ -11,6 +11,7 @@
 @interface ZYViewController : UIViewController
 
 @property (nonatomic,retain)UILabel *label;
+@property (nonatomic,retain)UIButton *btn;
 
 //@property (nonatomic,retain)
 @end
